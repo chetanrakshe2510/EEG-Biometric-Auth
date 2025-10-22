@@ -1,0 +1,13 @@
+numpy
+scipy
+mne
+matplotlib
+scikit-learn
+joblib
+antropy
+ordpy
+librosa
+PyEMD
+pylsl
+h5py
+tk

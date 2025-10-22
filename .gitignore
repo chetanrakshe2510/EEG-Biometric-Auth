@@ -1,0 +1,33 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model files
+*.pkl
+*.joblib
+
+# Ignore NumPy & HDF5 datasets
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Ignore EEG raw data files
+*.eeg
+*.vhdr
+*.vmrk
+
+# Ignore temporary / logs
+*.log
+.DS_Store
+*.swp
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
